@@ -1,12 +1,16 @@
-# City Weather Project
+# Student Records Project
 
 ## Objective
-To fetch real-time weather information for a city.
+To analyze student scores using Pandas.
 
 ## Features
-- User Input
-- API Integration
-- Real-time Weather Data
+- Read CSV Data
+- Calculate Average Score
+- Find Highest Score
+
+## Technologies Used
+- Python
+- Pandas
 
 ## Author
 D. Pravallika
