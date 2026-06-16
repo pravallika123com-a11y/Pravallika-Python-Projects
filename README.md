@@ -1,12 +1,12 @@
-# File Manager Project
+# City Weather Project
 
 ## Objective
-To display files available in a folder using Python.
+To fetch real-time weather information for a city.
 
 ## Features
 - User Input
-- OS Module
-- Exception Handling
+- API Integration
+- Real-time Weather Data
 
 ## Author
 D. Pravallika
